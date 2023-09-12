@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694548048 source:c:\users\wimu\desktop\c\identity\main.c
+	<stdio.h>
+	<stdlib.h>
+
